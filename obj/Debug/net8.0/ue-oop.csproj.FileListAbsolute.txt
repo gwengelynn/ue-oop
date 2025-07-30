@@ -1,0 +1,7 @@
+/workspaces/ue-oop/obj/Debug/net8.0/ue-oop.csproj.AssemblyReference.cache
+/workspaces/ue-oop/obj/Debug/net8.0/ue-oop.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ue-oop/obj/Debug/net8.0/ue-oop.AssemblyInfoInputs.cache
+/workspaces/ue-oop/obj/Debug/net8.0/ue-oop.AssemblyInfo.cs
+/workspaces/ue-oop/obj/Debug/net8.0/ue-oop.csproj.CoreCompileInputs.cache
+/workspaces/ue-oop/obj/Debug/net8.0/ue-oop.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/ue-oop/obj/Debug/net8.0/ue-oop.sourcelink.json
